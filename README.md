@@ -15,3 +15,4 @@
   ### Technology Stack Used
     1.Android
     2.Firebase
+    3.iOS
