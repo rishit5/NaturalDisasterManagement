@@ -9,6 +9,6 @@
   with. As a result it can be used to solve problems and cater to needs like:<br><br>
   * Raise alarms for seek of help.<br>
   * Recieve and Respond to such requests.<br>
-    * Notify people in a particular geographical area about missing people.<br>
-    * Raise and Satisfy requests for essentials.<br>
-    * General updates about the situation and condition.<br>
+  * Notify people in a particular geographical area about missing people.<br>
+  * Raise and Satisfy requests for essentials.<br>
+  * General updates about the situation and condition.<br>
